@@ -5,5 +5,5 @@
 - 😄 Pronouns: She/Her
 
 
-![Yesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesi-mc&show_icons=true&hide=stars&theme=merko)
+![Yesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesi-mc&show_icons=true&hide=stars&theme=radical)
 
